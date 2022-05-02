@@ -32,3 +32,5 @@ for l in lista:
     mLista = list( filter(lambda x: x % l, lista)
 )
 print(mLista)
+
+#leccion 4

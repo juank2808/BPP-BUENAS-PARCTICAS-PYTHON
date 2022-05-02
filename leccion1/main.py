@@ -89,7 +89,7 @@ except ColumnException as error:
 except ValueError as e:
     print(e)
 
-
+# leccion 1
     
 
 

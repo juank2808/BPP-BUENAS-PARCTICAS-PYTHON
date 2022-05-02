@@ -11,3 +11,4 @@ def test_division():
 
 def test_capital_case():
     assert cap_case('JUANK') == "Juank"
+# leccion 2

@@ -8,3 +8,5 @@ def division(a,b):
     return a/b
 def cap_case(letra):
     return letra.capitalize()
+
+# leccion 2
